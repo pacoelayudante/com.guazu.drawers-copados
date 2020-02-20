@@ -1,0 +1,26 @@
+{
+  "name": "com.guazu.drawers-copados",
+  "displayName": "Drawers Copados",
+  "description": "Un paquete de Custom Attribute Drawers para ser feliz. Por Paco \u00c1lvarez Lojo",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "keywords": [
+    "unity",
+    "editor",
+    "tools",
+    "drawer",
+    "drawer",
+    "attribute"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "Paco \u00c1lvarez Lojo",
+    "email": "pacoelayudante@gmail.com",
+    "url": "https://twitter.com/pacoelayudante/"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}

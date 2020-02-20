@@ -1,0 +1,10 @@
+{
+    "name": "Unity.Guazu.DrawersCopados.Editor",
+    "references": [
+      "Unity.Guazu.DrawersCopados"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
