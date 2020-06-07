@@ -1,8 +1,8 @@
 {
   "name": "com.guazu.drawers-copados",
   "displayName": "Drawers Copados",
-  "description": "Un paquete de Custom Attribute Drawers para ser feliz. Por Paco \u00c1lvarez Lojo\n\nVienen en tres categorias: simples, complejos y para shaders, pero eso da igual\n\nA los mas notables les voy a poner un \u2767\n\nComplejos:\n\u25AA [AnimatorStringList]\u2767 // muestra de un Animator que sea en base a alguna variable, o que este en el mismo gameobject la lista de estados y o parametros que tiene el Animator Controller asignado, y lo escribe como string\n\nShaders:\n\u25AA [MaskFlags]\u2767 // en el material editor que use este shader, este valor se va a ver como una serie de toggles que responden al valor bitwise de la variable\n\u25AA [ToggleZeroMaterial] // Un slider que cuando la variable es == 0, le setea al material una variable de compilacion\n\nSimples:\n\u25AA [AttrDrawBotonPegador] // pone un boton que pega lo que tengas en el clipboard aca. Solo strings!\n\u25AA [CopyCurrentFolder] // copia en el clipboard el path de la carpeta seleccionada actualmente en el project\n\u25AA [CreameScriptable]\u2767 // puesto en campo que apunta a un objeto de tipo ScriptableObject, si ese campo esta vacio, te aparece un boton para crear un scriptable de ese mismo tipo y lo asigna a ese campo\n\u25AA [GlobalShader] // Este no afecta ninguna variable, pero hace visible en el inspector un slider que modifica el valor de un uniform global de shader\n\u25AA [Ocultador]\u2767 // A este se le pasa como parametro otra variable del script, y va a ocultar la variable decorada si se cumplen ciertas condiciones basicas, tiene varios parametros diferentes para pasarle\n\u25AA [SceneAssetPathAsString]\u2767 // simple, un string lo muestra en el inspector como un selector de objetos que toma Scenes del proyecto (el valor asignado es el path de la escena, no el asset de la escena)\n\u25AA [SoloPares] // fuerza los valores a ser pares... no es mucho pero que se yo \n\u25AA [SoloImpares] // solo valores impares",
-  "version": "1.0.3",
+  "description": "Un paquete de Custom Attribute Drawers para ser mas feliz.",
+  "version": "1.0.4",
   "unity": "2018.3",
   "keywords": [
     "unity",
@@ -21,7 +21,6 @@
     "email": "pacoelayudante@gmail.com",
     "url": "https://twitter.com/pacoelayudante/"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "type": "tool",
   "hideInEditor": false
 }
