@@ -1,6 +1,6 @@
 _Unity Game Engine Package_
 # Drawers Copados
-#### _Paco Álavarez Lojo de [Team Guazú](https://teamguazu.com/)_
+#### _Paco Álvarez Lojo de [Team Guazú](https://teamguazu.com/)_
 
 Un paquete de Custom Attribute Drawers para ser mas feliz. Mas abajo explico como _instalarlo_ usando el [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) (versiones mayor a `2018.1`)
 
